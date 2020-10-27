@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">Philadelphia Tour App</string>
+    <string name="museum">Museums</string>
+    <string name="fun">Fun</string>
+    <string name="landmarks">Landmarks</string>
+    <string name="parks">Parks</string>
+    <string name="shopping">Shopping</string>
+
+
+    <string name="PhiladelphiaMuseumofArt">Philadelphia Museum of Art</string>
+    <string name="PhiladelphiaMuseumofArtDes">
+        "The museum’s landmark building houses one of the most remarkable collections in the country,
+        featuring some of the greatest works of American, Asia, and European"</string>
+
+    <string name="MuseumoftheAmericanRevolution">Museum of the American Revolution</string>
+    <string name="MuseumoftheAmericanRevolutionDes">
+        "Experience the Revolution. Join the angry mob that pulls down a statue of King George III. Face the enemy on the front lines of battle while risking everything for the uncertain hope of freedom."</string>
+
+    <string name="TheFranklinInstitute">The Franklin Institute</string>
+    <string name="TheFranklinInstituteDes">
+        "The Franklin Institute is one of America’s oldest and premier centers of science education. The museum is known for blockbuster exhibitsn"</string>
+
+
+    <string name="NationalMuseumofAmericanJewishHistory">National Museum of American Jewish History</string>
+    <string name="NationalMuseumofAmericanJewishHistoryDes">
+     Visit the National Museum of American Jewish History, right on Independence Mall. Explore our collection of interactive exhibitions highlighting the journey of American immigrants and their stories that have helped shape America into the country we know and love.</string>
+
+
+    <string name="PhiladelphiaZoo">Philadelphia Zoo</string>
+    <string name="PhiladelphiaZooDes">
+        a first-in-the-world system of trails passing through treetops, crossing over pathways, connecting habitats, giving animals like amazing big cats, majestic primates, marvelous meerkats the opportunities to travel and explore.</string>
+
+
+    <string name="WissahickonValleyPark">Wissahickon Valley Park</string>
+    <string name="WissahickonValleyParkDes">
+        Wissahickon park is a beautiful wooded park with hiking trails and a creek to splash around in. It’s a great place for a fun afternoon with kids. But we recently attended a wedding at the Valley Green Inn - tucked into the park, right in the creek bank. What a nice place for a wedding!</string>
+
+    <string name="FairmountPark">Fairmount Park</string>
+    <string name="FairmountParkDes">
+        One of the world`s largest municipal parks, a sprawling 9,200 acres contains several million trees and America`s oldest zoo.</string>
+
+    <string name="ReadingTerminalMarket">Reading Terminal Market</string>
+    <string name="ReadingTerminalMarketDes">Featuring over 80 concessions, this historic market has something for even the most eclectic of taste buds.</string>
+
+    <string name="MacysPhiladelphia">"Macy's Philadelphia"</string>
+    <string name="MacysPhiladelphiaDes">"Retail shopping in old fashioned elegance, Macy's towering ceilings and century-old architecture is a must-see. Concerts on the St. Louis World's Fair Pipe Organ are performed twice daily."</string>
+
+
+    <string name="IndependenceHall">Independence Hall</string>
+    <string name="IndependenceHallDes">Both the Declaration of Independence and the U.S. Constitution were signed in this historic building.</string>
+
+
+    <string name="OneLibertyObservationDeck">"One Liberty Observation Deck"</string>
+    <string name="OneLibertyObservationDeckDes">"Visitors to One Liberty Observation Deck get a breathtaking look at the historic
+        Philadelphia skyline from a one-of-a-kind vantage point. See the whole city from above and learn about Philly's
+        rich history and culture with interactive touchscreens and free tours Friday-Sunday.
+        One Liberty is one of the best places to take photos in the city and a great place to start your Philadelphia journey."</string>
+
+    <string name="RIVERSCASINOPHILADELPHIA">RIVERS CASINO PHILADELPHIA</string>
+    <string name="RIVERSCASINOPHILADELPHIADes">"Philly is a city of winners. You'll always feel like an MVP here! Discover 24/7 action on our premier gaming floor, smokin' hot entertainment, world-class steaks at Hugo's Frog Bar, Chop House, the best Player Rewards around, and a new sports betting area"</string>
+
+    <string name="SmithPlace">Smith Kids Play Place</string>
+    <string name="SmithPlaceDes">"Smith Memorial Playground and Playhouse opened its doors in East Fairmount Park in 1899. "</string>
+
+
+    <!-- Descriptions text -->
+    <string name="location_image">Location Image</string>
+    <string name="location_title">Location Name</string>
+
+
+</resources>
